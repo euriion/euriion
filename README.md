@@ -1,4 +1,12 @@
+# Seonghak Hong
+
 ### Hi there 👋
+
+
+- 🔭 I’m currently working on Data Scinece
+- 🌱 I’m currently learning Kubeflow
+- 💬 Ask me about Data Science, Big data, Text mining
+- 📫 How to reach me: my email address is "euriion@gmail.com"
 
 <!--
 **euriion/euriion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
