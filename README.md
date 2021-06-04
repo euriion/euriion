@@ -1,6 +1,6 @@
 # Seonghak Hong
 
-### Hi there 👋
+### About me 👋
 
 
 - 🔭 I’m currently working on Data Scinece
