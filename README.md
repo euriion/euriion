@@ -1,4 +1,8 @@
-# Seonghak Hong
+# Seonghak Hong 
+
+Nickname: Aiden
+Korean: 홍성학
+Chinese: 洪成學
 
 ### About me 👋
 
