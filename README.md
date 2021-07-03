@@ -2,10 +2,9 @@
 
 ### About me 👋
 
-
 - 🔭 I’m currently working on Data Scinece
 - 🌱 I’m currently learning Kubeflow
-- 💬 Ask me about Data Science, Big data, Text mining
+- 💬 Ask me about Data Science, Big data, Data mining, Software development, Data engineering
 - 📫 How to reach me: my email address is "euriion@gmail.com"
 
 <!--
