@@ -1,10 +1,10 @@
 # Seonghak Hong 
 
-Nickname: Aiden
-Korean: 홍성학
-Chinese: 洪成學
+- Korean: 홍성학
+- Nickname: Aiden
+- Chinese: 洪成學
 
-### About me 👋
+## About me 👋
 
 - 🔭 I’m currently working on Data Scinece
 - 🌱 I’m currently learning Kubeflow
