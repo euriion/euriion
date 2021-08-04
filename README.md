@@ -1,8 +1,8 @@
 # Seonghak Hong 
 
-- Korean: 홍성학
+- Korean name: 홍성학
 - Nickname: Aiden
-- Chinese: 洪成學
+- Chinese name: 洪成學
 
 ## About me 👋
 
