@@ -7,7 +7,7 @@
 ## About me 👋
 
 - 🔭 I’m currently working on Data Scinece
-- 🌱 I’m currently learning Kubeflow
+- 🌱 I’m currently learning MLOps infrastructure
 - 💬 Ask me about Data Science, Big data, Data mining, Software development, Data engineering
 - 📫 How to reach me: my email address is "euriion@gmail.com"
 
