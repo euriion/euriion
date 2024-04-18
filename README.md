@@ -1,10 +1,10 @@
 # Seonghak Hong 
 
-홍성학 (洪成學),  Aiden
+홍성학 (洪成學, Aiden)
 
 ## About me 👋
 
-Senior Data scientist, Senior Software Engineer, VP of Engineering
+Data Scientist, Software Engineer
 
 <!--
 **euriion/euriion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
