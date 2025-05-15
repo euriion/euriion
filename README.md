@@ -2,7 +2,7 @@
 
 홍성학 (洪成學, Aiden)
 
-Sr Data Scientist, Sr Software Engineer, CTO
+Lead of Engineering, Sr Data Scientist, Sr Software Engineer
 
 <!--
 **euriion/euriion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
