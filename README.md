@@ -1,8 +1,8 @@
-# Seonghak Hong 
+# Seonghak Hong (Aiden, 洪成學)
 
-홍성학 (洪成學, Aiden)
-
-Data Expert, Sr Software Engineer
+Data Scientist
+ML/AI Scientist
+Software Architect
 
 <!--
 **euriion/euriion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
