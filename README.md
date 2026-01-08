@@ -1,7 +1,9 @@
 # Seonghak Hong (Aiden, 洪成學)
 
 Data Scientist
+
 ML/AI Scientist
+
 Software Architect
 
 <!--
